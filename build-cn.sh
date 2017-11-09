@@ -1,0 +1,1 @@
+docker build ./ --build-arg LOCALE=cn -t nginx-hexo
